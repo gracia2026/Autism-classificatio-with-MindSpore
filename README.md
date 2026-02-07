@@ -1,4 +1,4 @@
-# Autism-classification-with-MindSpore
+# Autism-classification-with-MindSpore and ModelArts
 # This project is designed to be a tutorial for Master of Science in Artificial Intelligence course students.
 # The students have different educational backgrounds but are excited to learn and apply Machine/Deep learning models through different platforms supported by Industries.
 # Majority of the class has limited to nil working knowledge or experience on the Cloud platform.
